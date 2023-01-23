@@ -70,3 +70,13 @@ Ul {
     background-color: #000;
     color: #EB6440;
 }
+
+
+/* Home Section */
+.home {}
+
+
+
+.stack-images img {
+    height: 340px;
+}
